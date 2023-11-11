@@ -1,0 +1,28 @@
+{
+  "name": "piaic_project03_todo_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://hassanraza.net",
+  "license": "ISC",
+  "type": "module",
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hassanraza-se/PIAIC_project_03_todo_list"
+  },
+  "keywords": [
+    "cli",
+    "npmtool"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6"
+  }
+}
